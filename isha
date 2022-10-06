@@ -7,6 +7,8 @@
  <body bgcolor="lavender">
 <h1><center>YORKIES</center></h1>
 <marquee><font color="black">ALL ABOUT YORKIES</marquee>
+
+
 <li><center>I will be answering 3 questions about Yorkies.</center></li>
 
 <p><center>1)What makes Yorkies a good dog?</center></p>
@@ -29,6 +31,7 @@
 -hypoallergenic <br>
 -THE BEST DOG EVER
 </center></ul>
+<a href = "index.html">HOME</a>
 <p><font color = "black">By: Isha</p>
 
 </body>
