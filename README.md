@@ -1,6 +1,2 @@
-# HTMLwebsite
-
-changes 
-- list 
-- out 
-- tasks
+<h1>OUR WEBSITE</h1> 
+<body><p>The goal of our website is to educate others on our favorite breeds of dogs. We include some basic facts about the breeds, images, and why they are our favorite. You can navigate to each individual breed's page from the Home page, and there are links on the breeds' pages to go back to the Home page. Enjoy!</p></body>
