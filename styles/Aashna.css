@@ -2,4 +2,6 @@ ul li:first-child{
     color:cornflowerblue;
 }
 
-
+ol li:first-child{
+    color:rgb(235, 79, 123);
+}
