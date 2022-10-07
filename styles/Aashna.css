@@ -5,3 +5,15 @@ ul li:first-child{
 ol li:first-child{
     color:rgb(235, 79, 123);
 }
+p {
+    margin: 1.5vh;
+}
+.headings{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.images {
+    width: 100%;
+    height: auto;
+}
+
