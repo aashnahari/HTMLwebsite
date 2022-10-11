@@ -7,6 +7,7 @@ ol li:first-child{
 }
 p {
     margin: 1.5vh;
+    padding: 0%;
 }
 .headings{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
