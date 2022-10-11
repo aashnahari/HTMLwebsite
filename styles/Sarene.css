@@ -7,16 +7,12 @@ ol li:first-child{
 }
 p {
     margin: 1.5vh;
-}
-.headings{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0%;
 }
 
-.images > * {
-    width: 50%;
-    height: auto;
-}
 
-.images {
-    display: flex;
-}
+
+
+
+
+
