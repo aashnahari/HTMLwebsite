@@ -1,5 +1,6 @@
 <head><title>Shih Tzu!</title>
-<link href="styles/Aashna.css" rel="stylesheet">
+    <link href="styles/team.css" rel="stylesheet">
+    <link href="styles/Aashna.css" rel="stylesheet">
 
 </head>
 <body>

@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Dog</title>
+<link href="styles/team.css" rel="stylesheet">
 </head>
 <body>
  <body bgcolor="lavender">
