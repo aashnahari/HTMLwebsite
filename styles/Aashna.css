@@ -1,0 +1,24 @@
+ul li:first-child{
+    color:cornflowerblue;
+}
+
+ol li:first-child{
+    color:rgb(235, 79, 123);
+}
+p {
+    margin: 1.5vh;
+    padding: 0%;
+}
+.headings{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.images > * {
+    width: 50%;
+    height: auto;
+}
+
+.images {
+    display: flex;
+}
+

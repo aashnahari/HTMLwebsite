@@ -1,0 +1,55 @@
+<head><title>Pug!</title>
+    <link href="styles/team.css" rel="stylesheet">
+    <link href="styles/Devika.css" rel="stylesheet">
+
+</head>
+<body>
+<div class = "headings">
+<h1>Pug!</h1>
+<h3>by Devika</h3>
+</div>
+<div class = "images">
+<img src="pug.jpeg" alt="pug photo.">
+<img src="pug1.jpeg" alt="pug close up">
+</div>
+<br>
+<br>
+
+<div class = "headings">
+    <b>Overview:</b>
+</div>
+    <p>The Pug is a breed of dog originally from China, with physically distinctive features of a wrinkly, short-muzzled face and curled tail.</body></p>
+
+<a href = "index.html">HOME</a>
+
+
+
+    <br>
+    <br>
+<div class = "headings">
+    Characteristics:
+</div>
+<ol>
+    <li>curled tail</li>
+    <li>flat snout</li>
+    <li>large brown eyes</li>
+    <li>cute</li>
+    <li>playful and loyal</li>
+    <li>an ideal weight of 14-18 lbs</li>
+</ol>
+
+
+    <br>
+    <br>
+<div class = "headings">
+    Fun facts:
+</div>
+
+<ul>
+    <li>They were bred to be lap dogs.</li>
+    <li>They are meant to have wrinkles.</li>
+    <li>favorites of the Chinese royals</li>
+    <li>they were a symbol for a secret society</li>
+    <li>they are one of the oldest dog breeds</li>
+</ul>
+</body>
