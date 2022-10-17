@@ -9,6 +9,19 @@ p {
     margin: 1.5vh;
     padding: 0%;
 }
+.lists{
+    font-family: Times;
+}
+
+.images > * {
+    width: 50%;
+    height: auto;
+}
+
+.images {
+    display: flex;
+}
+
 
 
 
