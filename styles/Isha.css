@@ -13,14 +13,7 @@ p {
     font-family: Times;
 }
 
-.images > * {
-    width: 50%;
-    height: auto;
-}
 
-.images {
-    display: flex;
-}
 
 
 
