@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dog</title>
+</head>
+<body>
+ <body bgcolor="lavender">
+<h1><center>YORKIES</center></h1>
+<marquee><font color="black">ALL ABOUT YORKIES</marquee>
+
+<div class = "lists">
+
+<ol>
+
+    <li>I will be answering 3 questions about Yorkies.</li>
+
+    <li>What makes Yorkies a good dog?</li>
+
+    <li>Yorkies are the perfect dog for all. They are tiny so they are perfect for apartments, but they are not shy, so they are also perfect for bigger homes. In addition, they love to cuddle, and have huge personalities regardless of thier size.</li>
+    <li>What are some basics about Yorkies?</li>
+    <li>Yorkies can range from 6-10 pounds. They only reach to about 6-7 inches, so they are pretty small. In addition, they are hypoallergenic which means that they have human hair so people with dog allergies wont have reactions to yorkies.</li>
+    <li>Are Yorkies cute?</li>
+    <li>I mean you tell me...</li>
+</ol>
+</div>
+    <center><img src="yorkie1.jpeg" A yorkie sitting with his ears perked up looking into the camera. His tongue is out></center>
+    <center><img src="yorkie2.jpeg" Another image of a Yorkie sitting staring into the camera with his ears perked up></center>
+
+
+
+<center>Overall Yorkies are: </center>
+
+<div class = "lists">
+<ul> 
+    <li>cute</li>
+    <li> tiny</li>
+    <li> apartment friendly</li>
+    <li> hypoallergenic </li>
+    <li> THE BEST DOG EVER </li>
+
+</ul>
+</div>
+
+<a href = "index.html">HOME</a>
+<p>By: Isha</p>
+
+</body>
+</html>
