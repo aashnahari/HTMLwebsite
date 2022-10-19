@@ -1,6 +1,8 @@
 function textFunction() {
-    const unordered = document.querySelector('ul');
-    const text = document.createElement('p');
-    text.textContent = "You pressed a button!";
-    unordered.appendChild(text);
+    const para = document.createElement('p');
+    const text = document.createTextNode("You pressed a button!");
+    para.appendChild(text);
+
+    const element = document.querySelector("ul")
+    element.appendChild(para);
 }
