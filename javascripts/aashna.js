@@ -1,7 +1,6 @@
 function textFunction() {
     const para = document.createElement("p");
-    const text = document.createTextNode("You pressed a button!");
-    para.appendChild(text);
+    para.textContent= "You pressed a button!";
 
     const element = document.querySelector("ul")
     element.appendChild(para);
