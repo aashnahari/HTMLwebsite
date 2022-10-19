@@ -1,4 +1,4 @@
-textFunction(){
+button1.onclick = textFunction () {
     const unordered = document.querySelector('ul');
     const text = document.createElement('p');
     text.textContent = "You pressed a button!";
