@@ -1,9 +1,10 @@
-const para = document.createElement("p");
-const element = document.querySelector("body");
+const button1 = document.createElement('button')
+button1.innerText = 'Press me!'
 
-getElementById("button1").onclick = function() {textFunction()};
+button1.addEventListener('click', () => {
+    alert('You clicked the button!')
+})
 
-function textFunction() {
-    para.textContent = "You pressed a button!";
-    element.appendChild(para);
-}
+document.body.appendChild(button1)
+
+
