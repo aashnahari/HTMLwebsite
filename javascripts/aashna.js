@@ -14,7 +14,15 @@ color2.innerText = 'Purple'
 const color3 = document.createElement('button')
 color3.innerText = 'Blue'
 
- 
+const textBox = document.createElement('input') 
+textBox.setAttribute("type", "text")
+document.body.appendChild(textBox)
+const textBoxButton = document.createElement('button') 
+textBoxButton.innerText = "Enter!"
+document.body.appendChild(textBoxButton)
+
+
+
 button1.addEventListener('click', () => {
 
     const text1 = document.createElement('p')
@@ -59,4 +67,10 @@ color3.addEventListener('click', () => {
 document.body.appendChild(color3)
 
 
+textBoxButton.addEventListener("click", () => {
+    const text3 = textBox.value 
+    let text4 = document.createElement('p') 
+    text4.innerText = text3
+    document.body.appendChild(text4)
 
+})
