@@ -60,3 +60,7 @@ color3.addEventListener('click', () => {
 
 })
 document.body.appendChild(color3)
+
+<form>
+<input type = "text" name = "input something here">
+</form>
