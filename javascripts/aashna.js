@@ -28,9 +28,6 @@ button2.addEventListener('click', () => {
     htmlEle.innerText = num++
     
 })
-
-
-
 document.body.appendChild(button2)
 
 
