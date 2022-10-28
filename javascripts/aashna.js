@@ -21,24 +21,6 @@ const textBoxButton = document.createElement('button')
 textBoxButton.innerText = "Enter!"
 document.body.appendChild(textBoxButton)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 button1.addEventListener('click', () => {
 
     const text1 = document.createElement('p')
