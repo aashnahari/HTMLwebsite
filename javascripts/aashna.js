@@ -22,6 +22,21 @@ textBoxButton.innerText = "Enter!"
 document.body.appendChild(textBoxButton)
 
 
+var fontSelect = document.createElement('select') 
+var option1 = document.createElement('option');
+option1.value = "Times New Roman"
+option1.text = "Times New Roman"
+fontSelect.add(option1, null)
+var option2 = document.createElement('option');
+option2.value = "Arial"
+option2.text = "Arial"
+fontSelect.add(option2, null)
+var option3 = document.createElement('option');
+option3.value = "Courier New"
+option3.text = "Courier New"
+fontSelect.add(option3, null)
+document.body.appendChild(fontSelect)
+
 
 button1.addEventListener('click', () => {
 
@@ -74,3 +89,16 @@ textBoxButton.addEventListener("click", () => {
     document.body.appendChild(text4)
 
 })
+
+fontSelect.addEventListener("onchange", () => {
+    changeFont.call("this;")
+    
+})
+
+function changeFont(font){
+    var text5 = document.getElementById("fonts")
+    text5.style.fontFamily = font.value
+}
+
+
+ 
